@@ -1,0 +1,4 @@
+{
+    "name": "ASSIGNMENT_hack2skill",
+    "db": "mongodb://localhost/hack2skill_Assignment_Data"
+}
